@@ -1,6 +1,12 @@
 # bh1750-mqtt
 Simple python script to push bh1750 lux values to mqtt
 
+```
+Needed packages :apt install python-pip
+needed python packages: pip install configparser paho-mqtt smbus
+``` 
+
+
 ## Special variables in config. ini
 
 ### Define your pi model:
